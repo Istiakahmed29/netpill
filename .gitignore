@@ -1,0 +1,12 @@
+# Build output
+NetPill.exe
+*.pdb
+*.exe
+
+# Per-user state (settings.ini, usage.tsv) lives in %APPDATA%\NetPill, never here
+settings.ini
+usage.tsv
+
+# Windows junk
+Thumbs.db
+desktop.ini
