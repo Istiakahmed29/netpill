@@ -140,8 +140,8 @@ a second while open. **Open folder** in the footer reveals `usage.tsv`.
 | `build.bat` | One-line build with the C# compiler already inside Windows. |
 | `rebuild.bat` | Stops the running pill, rebuilds, starts it again. |
 
-No binary is committed on purpose - `NetPill.exe` is a build artifact. Run `build.bat` once and
-it is yours.
+No binary is committed on purpose - `NetPill.exe` is a build artifact. Either grab the ready-built
+`NetPill.exe` from [Releases](../../releases/latest), or run `build.bat` once and it is yours.
 
 ## License
 
